@@ -107,5 +107,5 @@ adivinhacao_jogo.py
 
 ## 👨‍💻 Autor
 
-Desenvolvido por Yamoshi01
+Desenvolvido por v1ctorw04
 ---
