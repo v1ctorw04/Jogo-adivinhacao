@@ -14,7 +14,7 @@ O projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais de 
 ---
 ## 🚀 Funcionalidades
 
-* 🎯 Escolha de dificuldade (Fácil, Médio e Difícil)
+* 🎯 Escolha de dificuldade (Fácil, Médio e Difícil ou se quiser testar a sorte de verdade, o modo Mega-Sena)
 * 🔢 Número aleatório a cada partida
 * 📊 Sistema de pontuação baseado no desempenho
 * 🏆 Ranking global dos jogadores
