@@ -85,8 +85,9 @@ Exemplo:
 ### Execução
 
 ```bash
-python adivinhacao_jogo.py ou diretamente no Google Colab: https://colab.research.google.com/drive/1qXBy7wYbZ5X5WSBkHHH7GbLT5EsjjNYI?usp=sharing
+python adivinhacao_jogo.py
 ```
+ou diretamente no Google Colab: https://colab.research.google.com/drive/1qXBy7wYbZ5X5WSBkHHH7GbLT5EsjjNYI?usp=sharing
 ---
 
 ## 📁 Estrutura do projeto
